@@ -1,0 +1,124 @@
+{
+    "questions": [
+        {
+            "question": "What is the most popular JavaScript framework?",
+            "options": ["Angular", "Svelte", "React", "Vue"],
+            "correctOption": 2,
+            "points": 10
+        },
+        {
+            "question": "Which company developed the Angular framework?",
+            "options": ["Facebook", "Google", "Microsoft", "Amazon"],
+            "correctOption": 1,
+            "points": 10
+        },
+        {
+            "question": "What does JSX stand for?",
+            "options": ["JavaScript XML", "JavaScript Extension", "JavaScript Extra", "JavaScript Syntax"],
+            "correctOption": 0,
+            "points": 10
+        },
+        {
+            "question": "Which JavaScript framework is known for its virtual DOM?",
+            "options": ["Angular", "React", "Vue", "Svelte"],
+            "correctOption": 1,
+            "points": 10
+        },
+        {
+            "question": "Which of the following is a reactive JavaScript framework?",
+            "options": ["Angular", "React", "Vue", "All of the above"],
+            "correctOption": 3,
+            "points": 10
+        },
+        {
+            "question": "What is the main language used to write Svelte components?",
+            "options": ["JavaScript", "TypeScript", "HTML", "CSS"],
+            "correctOption": 0,
+            "points": 10
+        },
+        {
+            "question": "Which framework uses a templating engine called 'Handlebars'?",
+            "options": ["Vue", "Angular", "Ember.js", "React"],
+            "correctOption": 2,
+            "points": 10
+        },
+        {
+            "question": "What is the primary purpose of the Vue framework?",
+            "options": ["Server-side rendering", "State management", "Building user interfaces", "Testing"],
+            "correctOption": 2,
+            "points": 10
+        },
+        {
+            "question": "Which of the following is a benefit of using TypeScript with React?",
+            "options": ["Improved code quality", "Faster execution", "Better styling", "None of the above"],
+            "correctOption": 0,
+            "points": 10
+        },
+        {
+            "question": "Which framework introduced the concept of a single-file component?",
+            "options": ["React", "Vue", "Angular", "Svelte"],
+            "correctOption": 1,
+            "points": 10
+        },
+        {
+            "question": "Which framework is designed with a component-based architecture?",
+            "options": ["React", "Angular", "Vue", "All of the above"],
+            "correctOption": 3,
+            "points": 10
+        },
+        {
+            "question": "Which of the following is NOT a state management library for React?",
+            "options": ["Redux", "MobX", "Vuex", "Context API"],
+            "correctOption": 2,
+            "points": 10
+        },
+        {
+            "question": "What does SSR stand for in web development?",
+            "options": ["Server-Side Rendering", "Single-Source Rendering", "Script-Side Rendering", "Simple-Side Rendering"],
+            "correctOption": 0,
+            "points": 10
+        },
+        {
+            "question": "Which JavaScript framework emphasizes a 'Progressive JavaScript Framework' philosophy?",
+            "options": ["Angular", "Vue", "React", "Svelte"],
+            "correctOption": 1,
+            "points": 10
+        },
+        {
+            "question": "Which of the following frameworks was created by Facebook?",
+            "options": ["Angular", "Vue", "React", "Svelte"],
+            "correctOption": 2,
+            "points": 10
+        },
+        {
+            "question": "Which framework is primarily developed and maintained by Google?",
+            "options": ["React", "Vue", "Angular", "Svelte"],
+            "correctOption": 2,
+            "points": 10
+        },
+        {
+            "question": "What is the command to create a new React app using Create React App?",
+            "options": ["npm create-react-app", "npx create-react-app", "yarn new react-app", "npm new react-app"],
+            "correctOption": 1,
+            "points": 10
+        },
+        {
+            "question": "Which JavaScript framework is known for its compiler that generates minimal JavaScript code?",
+            "options": ["React", "Angular", "Vue", "Svelte"],
+            "correctOption": 3,
+            "points": 10
+        },
+        {
+            "question": "Which state management solution is included by default in Vue?",
+            "options": ["Redux", "MobX", "Vuex", "Pinia"],
+            "correctOption": 2,
+            "points": 10
+        },
+        {
+            "question": "Which framework uses the concept of hooks for managing state and side effects?",
+            "options": ["Angular", "Vue", "React", "Svelte"],
+            "correctOption": 2,
+            "points": 10
+        }
+    ]
+}
